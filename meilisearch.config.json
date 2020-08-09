@@ -1,5 +1,5 @@
 {
-  "index_uid": "vuepress.squickup.com",
+  "index_uid": "vuepress_squickup_com",
   "sitemap_urls": ["https://vuepress.squickup.com/sitemap.xml"],
   "start_urls": ["https://vuepress.squickup.com"],
   "selectors": {
